@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7XO9pUlwgSIvAuPNJDDNYndz/5bwPi6rU/Ql5GvW3fxM0ju9WOG6EM1O4GIxRDyNvrZotM9g04/Bq0g9iKoAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexis\\Desktop\\IQBit\\IQBit - Backend\\IQBit - Backend\\IQBit - Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
