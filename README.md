@@ -13,6 +13,11 @@ https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 3. Descargar el proyecto y abrir la carpeta IQBIT-Backend (no el archivo IqBIT-Backend.sln) en el editor de texto Visual Studio Code.
 4. En una terminal ejecutar el comando dotnet run, esto levantará el servidor IIS Local el cual nos proveera una direccion de localhost en donde podremos hacer uso de las API´s
 
+Aspectos Importantes
+
+Dentro del proyecto en la carpeta Utils, se realizó una función que permite leer el archivo json.
+El nombre de las carpetas y atributos de los modelos se encuentran en mayúsculas siguiendo el formato de desarrollo que se recomienda en .Net
+
 Vista Previa
 
 ![Swagger](https://github.com/alexisMaldonado31/EjerciciosIQBit/blob/main/AssetsReadme/SwaggerBackend.png)
@@ -28,6 +33,13 @@ Instalación:
 2. Descargar el proyecto y abrirlo en Visual Studio Code.
 3. Abrir el archivo pubspec.yaml y clic en get packages o en una terminal ejecutar el comando : flutter pub get.
 4. Ejecutar el proyecto. Este se ejecutará en el dispositivo seleccionado que puede ser web o cualquier dispositivo móvil físico o virtual.
+
+Aspectos Importantes
+
+El proyecto se divide en la siguiente arquitectura:
+1. Models: aqui se encuentran todos los modelos para poder mapear el json que responde el API de GitHub.
+2. Pages: aqui se encuentran todas las pantallas del aplicativo. Cada pantalla esta compuesta por un conjunto de Widgets.
+3. Providers: aqui se encuentran todos los archivos necesarios para consumir las API´s de GitHub.
 
 Vista Previa
 
