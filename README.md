@@ -15,7 +15,7 @@ https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 
 Vista Previa
 
-![Swagger](https://github.com/alexisMaldonado31/dietFast/blob/master/assetsReadme/SwaggerBackend.png)
+![Swagger](https://github.com/alexisMaldonado31/EjerciciosIQBit/blob/main/AssetsReadme/SwaggerBackend.png)
 
 - Frontend desarrollado en Flutter, donde muestra un aplicativo que consume al API de GitHub para buscar un usuario y sus repositorios
 
@@ -31,5 +31,5 @@ Instalación:
 
 Vista Previa
 
-![WelcomePage](https://github.com/alexisMaldonado31/dietFast/blob/master/assetsReadme/FlutterWelcome.png)
-![UserPage](https://github.com/alexisMaldonado31/dietFast/blob/master/assetsReadme/FlutterUserGitHub.png)
+![WelcomePage](https://github.com/alexisMaldonado31/EjerciciosIQBit/blob/main/AssetsReadme/FlutterWelcome.png)
+![UserPage](https://github.com/alexisMaldonado31/EjerciciosIQBit/blob/main/AssetsReadme/FlutterUserGitHub.png)
